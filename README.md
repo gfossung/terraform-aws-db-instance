@@ -1,7 +1,5 @@
 This module can be used to create database instances in the AWS cloud.
 
-To use this module to do this:
-
 To use this module, add the code below to your terraform code:
 
 ```
